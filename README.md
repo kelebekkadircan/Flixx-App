@@ -1,7 +1,7 @@
 
 # Flixx App
 
-Movie info application built with vanilla JavaScript that uses version 3 of the <a src="https://www.themoviedb.org/"> TMDB API </a>
+Movie info application built with vanilla JavaScript that uses version 3 of the https://www.themoviedb.org
 
 <br>
 <img src="images/screen2.jpg" width="500">
